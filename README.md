@@ -1,2 +1,1 @@
-# Extreme-events-LDA
-# Repo for holding code for working on LDA analysis of rodent data
+# Development of LDA related packaged moved to: https://github.com/weecology/LDATS
